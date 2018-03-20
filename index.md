@@ -6,3 +6,4 @@ Cake
 Chocolates
 cheese
 Bread
+Apples
