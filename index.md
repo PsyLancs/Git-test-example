@@ -9,3 +9,4 @@ Bread
 Apples
 Bananas
 master
+newBranch
